@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 st.set_page_config(page_title="팬 챗봇 - KE", layout="centered")
-
 from openai import OpenAI
 import os
 import random
